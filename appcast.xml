@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Fleet</title>
+        <link>https://fleetapp.dev/appcast.xml</link>
+        <description>Fleet changelog — automatic update feed</description>
+        <language>en</language>
+        <!-- Release entries are prepended here automatically by the release workflow. -->
+        <!-- sparkle:version must be CFBundleVersion (timestamp), not the marketing version. -->
+        <item>
+    <title>Fleet 1.0.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.0.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261007.083120</sparkle:version>
+    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 07 Oct 2026 08:31:49 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.0.0/Fleet-v1.0.0.zip"
+        sparkle:edSignature="ABrG/VIDdXzztx5ZzeAYOf6FP2D9HXVIuWw/6VOckWDk5M3dMY/7isCTiJhtHWyN+RR1uVYRD+ApLbFYIh35Cw=="
+        length="3912286"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.0.1</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+    <sparkle:version>20261011.183103</sparkle:version>
+    <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 11 Oct 2026 18:31:30 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.0.1/Fleet-v1.0.1.zip"
+        sparkle:edSignature="R3Fxt5lidmntfw8i+nGl2WBeVRYswXbk3mbFV4Tt8VWOEoAcv5L9KHDcECIxgCTZqYmPOEtNEIxFUe2m/rwQAg=="
+        length="3914800"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.0.2</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.0.2</sparkle:releaseNotesLink>
+    <sparkle:version>20261012.100935</sparkle:version>
+    <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Mon, 12 Oct 2026 10:11:16 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.0.2/Fleet-v1.0.2.zip"
+        sparkle:edSignature="oqi5yqi4/wASjp6zg9qTzI5aP5uJ6bH5SMLwqA+4pncJoAjV2dMAvjPG5KjhpuCSCKA7j3YYnL2bMIGVsRGuDQ=="
+        length="3914975"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.1.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.1.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261018.092808</sparkle:version>
+    <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 18 Oct 2026 09:30:06 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.1.0/Fleet-v1.1.0.zip"
+        sparkle:edSignature="nkkOy13ukolRKI2JEmqQO8KHkhKSsJmToR4DJNbpAFJ5U9FqiEfHuBE4UVn3+ZoC0iZb6yJaoSpnRseNimD4Cw=="
+        length="3984440"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.2.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.2.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261021.122004</sparkle:version>
+    <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 21 Oct 2026 12:20:34 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.2.0/Fleet-v1.2.0.zip"
+        sparkle:edSignature="NFTRUaWAt9NSEtg6Wwco7IOWt2VewmtBfedovai2gpyHspSnEAfQ3eI4rx2PcS7s0WhkUiwEnQ6WURooaX0vBQ=="
+        length="4138467"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.3.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.3.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261021.124515</sparkle:version>
+    <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 21 Oct 2026 12:45:46 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.3.0/Fleet-v1.3.0.zip"
+        sparkle:edSignature="7MNj11CnlTwpgP3gD/qXbL+rdeGK81rTIuuo3KlBFRYfvbr2BHUdDaep/8E1JPYpTkDtMOR3DcSOmDd7H4x0Ag=="
+        length="4171776"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.4.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.4.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261021.133205</sparkle:version>
+    <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 21 Oct 2026 13:32:36 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.4.0/Fleet-v1.4.0.zip"
+        sparkle:edSignature="E4BULigoHWEaGRNqKjCpwsfsDLIAklkEr7P/pAMWlEbvU2f190cR+wXnF7YrPWuWTIsbyeSboQoZrDoaw9OJBA=="
+        length="4177289"
+        type="application/octet-stream"/>
+</item>
+        <!-- APPCAST_INSERT_POINT -->
+    </channel>
+</rss>
