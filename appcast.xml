@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Fleet</title>
+        <link>https://fleetapp.dev/appcast.xml</link>
+        <description>Fleet changelog — automatic update feed</description>
+        <language>en</language>
+        <!-- Release entries are prepended here automatically by the release workflow. -->
+        <!-- sparkle:version must be CFBundleVersion (timestamp), not the marketing version. -->
+        <item>
+    <title>Fleet 1.0.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.0.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261007.083120</sparkle:version>
+    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 07 Oct 2026 08:31:49 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.0.0/Fleet-v1.0.0.zip"
+        sparkle:edSignature="ABrG/VIDdXzztx5ZzeAYOf6FP2D9HXVIuWw/6VOckWDk5M3dMY/7isCTiJhtHWyN+RR1uVYRD+ApLbFYIh35Cw=="
+        length="3912286"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.0.1</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+    <sparkle:version>20261011.183103</sparkle:version>
+    <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 11 Oct 2026 18:31:30 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.0.1/Fleet-v1.0.1.zip"
+        sparkle:edSignature="R3Fxt5lidmntfw8i+nGl2WBeVRYswXbk3mbFV4Tt8VWOEoAcv5L9KHDcECIxgCTZqYmPOEtNEIxFUe2m/rwQAg=="
+        length="3914800"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.0.2</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.0.2</sparkle:releaseNotesLink>
+    <sparkle:version>20261012.100935</sparkle:version>
+    <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Mon, 12 Oct 2026 10:11:16 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.0.2/Fleet-v1.0.2.zip"
+        sparkle:edSignature="oqi5yqi4/wASjp6zg9qTzI5aP5uJ6bH5SMLwqA+4pncJoAjV2dMAvjPG5KjhpuCSCKA7j3YYnL2bMIGVsRGuDQ=="
+        length="3914975"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.1.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.1.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261018.092808</sparkle:version>
+    <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 18 Oct 2026 09:30:06 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.1.0/Fleet-v1.1.0.zip"
+        sparkle:edSignature="nkkOy13ukolRKI2JEmqQO8KHkhKSsJmToR4DJNbpAFJ5U9FqiEfHuBE4UVn3+ZoC0iZb6yJaoSpnRseNimD4Cw=="
+        length="3984440"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.2.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.2.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261021.122004</sparkle:version>
+    <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 21 Oct 2026 12:20:34 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.2.0/Fleet-v1.2.0.zip"
+        sparkle:edSignature="NFTRUaWAt9NSEtg6Wwco7IOWt2VewmtBfedovai2gpyHspSnEAfQ3eI4rx2PcS7s0WhkUiwEnQ6WURooaX0vBQ=="
+        length="4138467"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.3.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.3.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261021.124515</sparkle:version>
+    <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 21 Oct 2026 12:45:46 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.3.0/Fleet-v1.3.0.zip"
+        sparkle:edSignature="7MNj11CnlTwpgP3gD/qXbL+rdeGK81rTIuuo3KlBFRYfvbr2BHUdDaep/8E1JPYpTkDtMOR3DcSOmDd7H4x0Ag=="
+        length="4171776"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.4.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.4.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261021.133205</sparkle:version>
+    <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 21 Oct 2026 13:32:36 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.4.0/Fleet-v1.4.0.zip"
+        sparkle:edSignature="E4BULigoHWEaGRNqKjCpwsfsDLIAklkEr7P/pAMWlEbvU2f190cR+wXnF7YrPWuWTIsbyeSboQoZrDoaw9OJBA=="
+        length="4177289"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.5.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.5.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261031.205510</sparkle:version>
+    <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sat, 31 Oct 2026 20:55:40 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.5.0/Fleet-v1.5.0.zip"
+        sparkle:edSignature="2S9JAJXQaNh4sbGBUh7R2UqzeN4PWIqA3+5tzciNR6LoCeCmST3j89/pouuzrmiSHlnlUkpGyC0x+9jjxK6/Bw=="
+        length="4461277"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.1</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.6.1</sparkle:releaseNotesLink>
+    <sparkle:version>20261101.201406</sparkle:version>
+    <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 01 Nov 2026 20:14:37 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.1/Fleet-v1.6.1.zip"
+        sparkle:edSignature="xgsE5/dujdSaRt7g7AfFup2oagkQWsMBxoY2uHORNld8luVg9gfVdHNd91Jrq3Ko73Khv+9BcVA5o2LmG6/HAg=="
+        length="4479639"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.2</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.6.2</sparkle:releaseNotesLink>
+    <sparkle:version>20261103.201307</sparkle:version>
+    <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 03 Nov 2026 20:13:39 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.2/Fleet-v1.6.2.zip"
+        sparkle:edSignature="2bIDz+n3bbgfD/Peuxyj6+Xm0gHQ7ygsLtNL+gS17Htd2sgUepttajlKKxJ8EQKdd4EUlibXNaueEmTsWtnCBw=="
+        length="4480242"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.3</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.6.3</sparkle:releaseNotesLink>
+    <sparkle:version>20261103.205614</sparkle:version>
+    <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 03 Nov 2026 20:56:50 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.3/Fleet-v1.6.3.zip"
+        sparkle:edSignature="/o62CwG5Fdisoa5rbKsRJjtdOi5ydYVF2OYxUp3x0yA0QB4miRsebjtP3Gxh/C86Qy4lpatwMz5zDF8ssrFLAg=="
+        length="4487271"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.4</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.6.4</sparkle:releaseNotesLink>
+    <sparkle:version>20261107.185158</sparkle:version>
+    <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sat, 07 Nov 2026 18:52:28 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.4/Fleet-v1.6.4.zip"
+        sparkle:edSignature="T6ZlsHTLYRS2OxwprCaxXH66GjVEGnTRWzoptcku9X5FLUn0sTxByjGSFAJzeVfRIy5smnmF7Nq3vsam1zSFCw=="
+        length="4496972"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.5</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+</style>
+<h2>New</h2><ul><li><b>Find (⌘F).</b> Search an agent's terminal.<ul><li>In a Claude agent it searches the whole conversation, with Claude's own search, and shows where you are ("2 of 4").</li><li>In other tabs: Match Case, Whole Word and Regular Expression, as in VS Code.</li><li>↑ and ↓ go to the match above or below. ⌘F, Esc or ✕ closes it.</li></ul></li><li><b>Terminal font.</b> Pick the terminal's font and size in Settings ▸ General. Only fonts that display correctly are listed.</li><li><b>One agent, several folders.</b> In New Agent, choose "One agent": it starts in one folder and can also work in the others you pick.</li></ul><h2>Improved</h2><ul><li>The update window shows what's new, like this, instead of a web page.</li></ul><h2>Fixed</h2><ul><li>Text you select with the mouse in a shell stays highlighted after you let go, and is copied.</li></ul>]]></description>
+    <sparkle:version>20261109.220133</sparkle:version>
+    <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Mon, 09 Nov 2026 22:02:05 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.5/Fleet-v1.6.5.zip"
+        sparkle:edSignature="t8zK8uTLCdMDNcBITvZZSybFPEDKX/Hkvp72KiMhCt3r5OpAuqjR7dcfqbnEew1UFr0vxbpXg5s18h1Qcs0zAQ=="
+        length="4583379"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.6</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+</style>
+<h2>New</h2><ul><li><b>Report a Problem.</b> If something looks wrong, like an agent that stays red after Claude finished, choose Help ▸ Report a Problem…, or right-click the agent. Fleet gathers what it saw at that moment, shows you all of it, and opens an email to us with it attached. Nothing is sent unless you send it, and it never includes your terminal, conversations or files.</li></ul><h2>Improved</h2><ul><li><b>The terminal selects like a normal one.</b> Drag to select, double-click a word, triple-click a line, ⌘C to copy. A single click still works in the program: it focuses a split pane or places Claude's cursor. Hold ⌥ to use Claude's own selection.</li></ul>]]></description>
+    <sparkle:version>20261110.212647</sparkle:version>
+    <sparkle:shortVersionString>1.6.6</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 10 Nov 2026 21:27:22 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.6/Fleet-v1.6.6.zip"
+        sparkle:edSignature="/gM+g04c4JdV5j9zbFGnK5qdGqUDFsEg1zp//kA+KYSdvfdl3si2nS2i78mCkvEg4q+LU0RlZSyroroasV+xAA=="
+        length="4661320"
+        type="application/octet-stream"/>
+</item>
+        <!-- APPCAST_INSERT_POINT -->
+    </channel>
+</rss>
