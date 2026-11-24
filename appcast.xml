@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Fleet</title>
+        <link>https://fleetapp.dev/appcast.xml</link>
+        <description>Fleet changelog — automatic update feed</description>
+        <language>en</language>
+        <!-- Release entries are prepended here automatically by the release workflow. -->
+        <!-- sparkle:version must be CFBundleVersion (timestamp), not the marketing version. -->
+        <item>
+    <title>Fleet 1.0.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.0.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261007.083120</sparkle:version>
+    <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 07 Oct 2026 08:31:49 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.0.0/Fleet-v1.0.0.zip"
+        sparkle:edSignature="ABrG/VIDdXzztx5ZzeAYOf6FP2D9HXVIuWw/6VOckWDk5M3dMY/7isCTiJhtHWyN+RR1uVYRD+ApLbFYIh35Cw=="
+        length="3912286"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.0.1</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.0.1</sparkle:releaseNotesLink>
+    <sparkle:version>20261011.183103</sparkle:version>
+    <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 11 Oct 2026 18:31:30 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.0.1/Fleet-v1.0.1.zip"
+        sparkle:edSignature="R3Fxt5lidmntfw8i+nGl2WBeVRYswXbk3mbFV4Tt8VWOEoAcv5L9KHDcECIxgCTZqYmPOEtNEIxFUe2m/rwQAg=="
+        length="3914800"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.0.2</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.0.2</sparkle:releaseNotesLink>
+    <sparkle:version>20261012.100935</sparkle:version>
+    <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Mon, 12 Oct 2026 10:11:16 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.0.2/Fleet-v1.0.2.zip"
+        sparkle:edSignature="oqi5yqi4/wASjp6zg9qTzI5aP5uJ6bH5SMLwqA+4pncJoAjV2dMAvjPG5KjhpuCSCKA7j3YYnL2bMIGVsRGuDQ=="
+        length="3914975"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.1.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.1.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261018.092808</sparkle:version>
+    <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 18 Oct 2026 09:30:06 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.1.0/Fleet-v1.1.0.zip"
+        sparkle:edSignature="nkkOy13ukolRKI2JEmqQO8KHkhKSsJmToR4DJNbpAFJ5U9FqiEfHuBE4UVn3+ZoC0iZb6yJaoSpnRseNimD4Cw=="
+        length="3984440"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.2.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.2.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261021.122004</sparkle:version>
+    <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 21 Oct 2026 12:20:34 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.2.0/Fleet-v1.2.0.zip"
+        sparkle:edSignature="NFTRUaWAt9NSEtg6Wwco7IOWt2VewmtBfedovai2gpyHspSnEAfQ3eI4rx2PcS7s0WhkUiwEnQ6WURooaX0vBQ=="
+        length="4138467"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.3.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.3.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261021.124515</sparkle:version>
+    <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 21 Oct 2026 12:45:46 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.3.0/Fleet-v1.3.0.zip"
+        sparkle:edSignature="7MNj11CnlTwpgP3gD/qXbL+rdeGK81rTIuuo3KlBFRYfvbr2BHUdDaep/8E1JPYpTkDtMOR3DcSOmDd7H4x0Ag=="
+        length="4171776"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.4.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.4.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261021.133205</sparkle:version>
+    <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 21 Oct 2026 13:32:36 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.4.0/Fleet-v1.4.0.zip"
+        sparkle:edSignature="E4BULigoHWEaGRNqKjCpwsfsDLIAklkEr7P/pAMWlEbvU2f190cR+wXnF7YrPWuWTIsbyeSboQoZrDoaw9OJBA=="
+        length="4177289"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.5.0</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.5.0</sparkle:releaseNotesLink>
+    <sparkle:version>20261031.205510</sparkle:version>
+    <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sat, 31 Oct 2026 20:55:40 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.5.0/Fleet-v1.5.0.zip"
+        sparkle:edSignature="2S9JAJXQaNh4sbGBUh7R2UqzeN4PWIqA3+5tzciNR6LoCeCmST3j89/pouuzrmiSHlnlUkpGyC0x+9jjxK6/Bw=="
+        length="4461277"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.1</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.6.1</sparkle:releaseNotesLink>
+    <sparkle:version>20261101.201406</sparkle:version>
+    <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 01 Nov 2026 20:14:37 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.1/Fleet-v1.6.1.zip"
+        sparkle:edSignature="xgsE5/dujdSaRt7g7AfFup2oagkQWsMBxoY2uHORNld8luVg9gfVdHNd91Jrq3Ko73Khv+9BcVA5o2LmG6/HAg=="
+        length="4479639"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.2</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.6.2</sparkle:releaseNotesLink>
+    <sparkle:version>20261103.201307</sparkle:version>
+    <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 03 Nov 2026 20:13:39 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.2/Fleet-v1.6.2.zip"
+        sparkle:edSignature="2bIDz+n3bbgfD/Peuxyj6+Xm0gHQ7ygsLtNL+gS17Htd2sgUepttajlKKxJ8EQKdd4EUlibXNaueEmTsWtnCBw=="
+        length="4480242"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.3</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.6.3</sparkle:releaseNotesLink>
+    <sparkle:version>20261103.205614</sparkle:version>
+    <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 03 Nov 2026 20:56:50 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.3/Fleet-v1.6.3.zip"
+        sparkle:edSignature="/o62CwG5Fdisoa5rbKsRJjtdOi5ydYVF2OYxUp3x0yA0QB4miRsebjtP3Gxh/C86Qy4lpatwMz5zDF8ssrFLAg=="
+        length="4487271"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.4</title>
+    <sparkle:releaseNotesLink>https://github.com/fleetapp-dev/fleet/releases/tag/v1.6.4</sparkle:releaseNotesLink>
+    <sparkle:version>20261107.185158</sparkle:version>
+    <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sat, 07 Nov 2026 18:52:28 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.4/Fleet-v1.6.4.zip"
+        sparkle:edSignature="T6ZlsHTLYRS2OxwprCaxXH66GjVEGnTRWzoptcku9X5FLUn0sTxByjGSFAJzeVfRIy5smnmF7Nq3vsam1zSFCw=="
+        length="4496972"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.5</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+</style>
+<h2>New</h2><ul><li><b>Find (⌘F).</b> Search an agent's terminal.<ul><li>In a Claude agent it searches the whole conversation, with Claude's own search, and shows where you are ("2 of 4").</li><li>In other tabs: Match Case, Whole Word and Regular Expression, as in VS Code.</li><li>↑ and ↓ go to the match above or below. ⌘F, Esc or ✕ closes it.</li></ul></li><li><b>Terminal font.</b> Pick the terminal's font and size in Settings ▸ General. Only fonts that display correctly are listed.</li><li><b>One agent, several folders.</b> In New Agent, choose "One agent": it starts in one folder and can also work in the others you pick.</li></ul><h2>Improved</h2><ul><li>The update window shows what's new, like this, instead of a web page.</li></ul><h2>Fixed</h2><ul><li>Text you select with the mouse in a shell stays highlighted after you let go, and is copied.</li></ul>]]></description>
+    <sparkle:version>20261109.220133</sparkle:version>
+    <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Mon, 09 Nov 2026 22:02:05 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.5/Fleet-v1.6.5.zip"
+        sparkle:edSignature="t8zK8uTLCdMDNcBITvZZSybFPEDKX/Hkvp72KiMhCt3r5OpAuqjR7dcfqbnEew1UFr0vxbpXg5s18h1Qcs0zAQ=="
+        length="4583379"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.6</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+</style>
+<h2>New</h2><ul><li><b>Report a Problem.</b> If something looks wrong, like an agent that stays red after Claude finished, choose Help ▸ Report a Problem…, or right-click the agent. Fleet gathers what it saw at that moment, shows you all of it, and opens an email to us with it attached. Nothing is sent unless you send it, and it never includes your terminal, conversations or files.</li></ul><h2>Improved</h2><ul><li><b>The terminal selects like a normal one.</b> Drag to select, double-click a word, triple-click a line, ⌘C to copy. A single click still works in the program: it focuses a split pane or places Claude's cursor. Hold ⌥ to use Claude's own selection.</li></ul>]]></description>
+    <sparkle:version>20261110.212647</sparkle:version>
+    <sparkle:shortVersionString>1.6.6</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 10 Nov 2026 21:27:22 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.6/Fleet-v1.6.6.zip"
+        sparkle:edSignature="/gM+g04c4JdV5j9zbFGnK5qdGqUDFsEg1zp//kA+KYSdvfdl3si2nS2i78mCkvEg4q+LU0RlZSyroroasV+xAA=="
+        length="4661320"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.6.7</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+</style>
+<h2>Improved</h2><ul><li><b>Report a Problem sends from inside Fleet.</b> It no longer opens Apple Mail, so it works whether you use Gmail, Outlook or no mail app at all. Click Send Report and it goes straight to us. You still see everything first, and you can add your email if you'd like a reply. If sending fails, you can copy or save the report instead.</li></ul><h2>New</h2><ul><li><b>Anonymous usage data, on by default.</b> Fleet now tells us how many people use it, how often, and which versions of Fleet and macOS they run, through TelemetryDeck (stored in the EU). It never includes your name, files, agent names, code, conversations or terminal. Turn it off anytime in Settings ▸ General ▸ Privacy. Details: fleetapp.dev/privacy.</li></ul>]]></description>
+    <sparkle:version>20261118.083847</sparkle:version>
+    <sparkle:shortVersionString>1.6.7</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 18 Nov 2026 08:39:17 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.6.7/Fleet-v1.6.7.zip"
+        sparkle:edSignature="wPodiFUa4yMiNCyrvx+wBYEVowHEu7i02svriSDugpR0GIRpeqgr0aIIv08J80kPgk2L83NS+Z8sh0T4KrCkBg=="
+        length="4815776"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.7.0</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+</style>
+<h2>New</h2><ul><li><b>A cleaner sidebar.</b> Agents are now simple rows instead of boxes, so the list is calmer and easier to scan. The status dot still shows what each agent is doing.</li><li><b>Agents that need you glow.</b> An agent waiting for you gets a soft red glow that breathes with its dot, and "Needs you" is written next to its project. A finished result you haven't seen yet glows green. With Reduce Motion on, the glow holds still.</li><li><b>Groups are easy to see.</b> Each group sits in its own softly tinted box, from its name to its last agent. Click anywhere on a group's name to fold or unfold it.</li><li><b>New Agent, Resume Session and New Group at the top of the sidebar,</b> always in view. New Agent shows its shortcut.</li><li><b>"1 waiting" in the toolbar.</b> Click it (or press ⌘⏎) to jump to the agent that needs you. It stays visible when the sidebar is hidden.</li></ul><h2>Improved</h2><ul><li>Terminal tabs are slimmer and match the terminal.</li><li>The terminal's text sits a little in from the edges, and the empty scroll bar strip on the right is gone.</li><li>The light/dark button shows a check next to the current choice.</li><li>An empty sidebar explains what Fleet does.</li></ul><h2>Fixed</h2><ul><li>The sidebar no longer comes back scrolled down with the top agent hidden under the toolbar (for example after hiding and showing it, or in a second window).</li><li>Jumping to a waiting agent (⌘⏎) while the usage dashboard is open now shows the agent.</li></ul>]]></description>
+    <sparkle:version>20261118.221604</sparkle:version>
+    <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 18 Nov 2026 22:16:34 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.7.0/Fleet-v1.7.0.zip"
+        sparkle:edSignature="ojHU73hfS8b/fdrMvE6yZGDKOouWdChoMgErbuTpj1pCbRBBDLaABGVikfcq7tbtHJo/RH5mgJJvbz+n5bqVDg=="
+        length="4856211"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.8.0</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+</style>
+<h2>New</h2><ul><li><b>Your agents come back after a restart.</b> When your Mac restarts, Fleet reopens the agents you had open: each in its folder, with its tabs and splits, and Claude picking up the conversation where it left off. They return to the same place in the sidebar and the same groups. You can turn this off in Settings.</li><li><b>See what an agent changed.</b> The new Changes panel (the branch button in the toolbar, or ⌥⌘I) shows the agent's commits as a git graph, the files it changed as a tree, and each file's changes side by side, old on the left and new on the right. Click a commit to see only its files. Fold History or Files away with the small arrow.</li><li><b>Duplicate an agent.</b> Right-click ▸ Duplicate starts another agent in the same folder, right below the original. A worktree agent's copy gets its own worktree.</li><li><b>Copy on select.</b> Selecting text in the terminal copies it at once. You can turn it off in Settings ▸ Terminal.</li><li><b>⌘-click a file path</b> in the terminal to show it in Finder.</li><li><b>Drag files onto the terminal</b> to paste their paths, or drag text to paste it.</li><li><b>Double-click empty space in the sidebar</b> to start a new agent.</li></ul><h2>Improved</h2><ul><li>The orange "working" light is now a little fleet of arrows flying up, like the app icon.</li><li>You can always tell which group you're typing in: the selected agent's group is highlighted, and the title bar names it.</li><li>Tabs running Claude are named after the conversation instead of Claude's version number.</li><li>Clearing an agent's name names it after its conversation, or "Claude Code" if there isn't one yet.</li><li>"Separate git worktree" works without a name: the worktree is named from the date and time.</li><li>A divider and a little more room between the buttons at the top of the sidebar and your agents.</li></ul><h2>Fixed</h2><ul><li>Your selection in the terminal no longer disappears while an agent is working.</li><li>You can drop an agent below a group that's last in the sidebar.</li><li>Right-clicking an agent no longer draws a blue outline around it.</li></ul>]]></description>
+    <sparkle:version>20261122.200317</sparkle:version>
+    <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 22 Nov 2026 20:03:50 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.8.0/Fleet-v1.8.0.zip"
+        sparkle:edSignature="jIWHuiRxca2MDaGTbzREDAyZkgyqVJW2QXwrU5UVBdNJxC3jb6AnmJIq8tZlPIRQR0CodCeWw3+xLAcxyZ04CQ=="
+        length="5100615"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.8.1</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+</style>
+<h2>New</h2><ul><li><b>Support Fleet.</b> If Fleet saves you time, you can buy me a coffee on Ko-fi: Help ▸ Support Fleet on Ko-fi, or the link at the bottom of Settings. No pop-ups, no reminders.</li></ul><h2>Fixed</h2><ul><li>An unnamed worktree never picks up an old branch with the same date and time; it gets a number instead.</li><li>A duplicated agent's conversation is named after the copy ("Fix-2"), so Resume Session no longer shows two conversations with the same title.</li><li>⌘-clicking a file path in a split pane looks for it in the folder of the pane you clicked.</li><li>Scrolling in the middle of an ⌥-drag no longer leaves the terminal stuck as if the mouse button were still down.</li></ul>]]></description>
+    <sparkle:version>20261122.203855</sparkle:version>
+    <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 22 Nov 2026 20:39:25 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.8.1/Fleet-v1.8.1.zip"
+        sparkle:edSignature="JiWEyWa+5fvMDqMMoYQaKc7DuzTzfUR+O5LoguJqgnCorK2r2EXWrYp8RthJsa3RJiTJ1jU7820a+ta4C3C5CQ=="
+        length="5103146"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.9.0</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+.keeps { margin: 0 0 14px; padding: 8px 10px; border-radius: 7px; background: rgba(52, 199, 89, 0.14); }
+</style>
+<p class="keeps"><b>Your agents keep running while Fleet updates.</b> When it reopens, every agent, tab and conversation is right where you left it.</p><h2>New</h2><ul><li><b>Your own shortcuts.</b> Make a key type something into the selected agent: for example ⌘K for <code>/clear</code>, or a prompt you use often. Settings ▸ Shortcuts ▸ Add Shortcut. Return is pressed after it, unless you turn that off. Your shortcuts are in the Edit menu too.</li><li><b>Folded groups show what's inside.</b> A folded group's header shows a light for each kind of agent in it: red when one needs you, green when one is ready, and the flying arrows when one is working.</li></ul><h2>Fixed</h2><ul><li>Dragging agents in the sidebar is smooth again when many of them are working.</li></ul>]]></description>
+    <sparkle:version>20261124.094555</sparkle:version>
+    <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 24 Nov 2026 09:46:31 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.9.0/Fleet-v1.9.0.zip"
+        sparkle:edSignature="VDVXmgk56LqY6SkTO7MtnXyIZh3ps9BweRz7511UIbNnlVLsFmqEfnkTrBFHo6yry0nVzW91vsYHVi0attB6AQ=="
+        length="5137649"
+        type="application/octet-stream"/>
+</item>
+        <item>
+    <title>Fleet 1.9.1</title>
+    <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font: 13px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; margin: 12px 16px; }
+h2 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; }
+h2:first-child { margin-top: 0; }
+ul { margin: 0; padding-left: 18px; }
+li { margin: 3px 0; }
+p { margin: 6px 0; }
+code { font: 12px ui-monospace, Menlo, monospace; }
+.keeps { margin: 0 0 14px; padding: 8px 10px; border-radius: 7px; background: rgba(52, 199, 89, 0.14); }
+</style>
+<p class="keeps"><b>Your agents keep running while Fleet updates.</b> When it reopens, every agent, tab and conversation is right where you left it.</p><h2>New</h2><ul><li><b>Add an agent straight into a group.</b> Right-click a group ▸ New Agent in Group…, or hover over the group and click +.</li><li><b>Know when an update is ready.</b> An "Update to …" button shows in the toolbar until you update, and Fleet checks every few hours instead of once a day.</li><li><b>Delete a group and close its agents in one go.</b> When you delete a group, tick "Also close its agents" to close them too. It's off unless you tick it.</li></ul><h2>Improved</h2><ul><li>The New Agent window is clearer. Pick two folders or more and it asks how they should work: an agent in each folder, or one agent for all of them, with the folder it starts in.</li></ul><h2>Fixed</h2><ul><li>A named agent's conversation now gets its name right away. The <code>/rename</code> Fleet typed for it sometimes sat in the prompt without running.</li><li><code>/rename</code> names the tab right away, even as the first thing in a new conversation.</li><li>Closing an agent with ✕ no longer jumps it to the top of the sidebar first.</li></ul>]]></description>
+    <sparkle:version>20261124.113420</sparkle:version>
+    <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 24 Nov 2026 11:34:57 +0000</pubDate>
+    <enclosure
+        url="https://github.com/fleetapp-dev/fleet/releases/download/v1.9.1/Fleet-v1.9.1.zip"
+        sparkle:edSignature="doqg4M0HjjPr5wiAiGX7M+1qWJdCgqAojogH+nRmfSnRr4Z4E3+qPiL9c1P+j9b/TUd56UKPNL8YEglh2Tn5Aw=="
+        length="5165539"
+        type="application/octet-stream"/>
+</item>
+        <!-- APPCAST_INSERT_POINT -->
+    </channel>
+</rss>
